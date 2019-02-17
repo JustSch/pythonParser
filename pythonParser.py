@@ -1,4 +1,4 @@
-#Parses words from a javascript drop down menu
+#Parses words from a html drop down menu
 
 #probably bad coding style
 #hopefully parses everything fine
