@@ -1,2 +1,2 @@
 # pythonParser
-Parses Words From a Javascript Drop Down Menu. Example Code is Given
+Parses Words From a HTML Drop Down Menu. Example Code is Given
