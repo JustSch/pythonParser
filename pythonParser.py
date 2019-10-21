@@ -1,8 +1,5 @@
 #Parses words from a html drop down menu
 
-#probably bad coding style
-#hopefully parses everything fine
-
 from parse import * #requires installing parse if not installed
 
 parse_list= list()
